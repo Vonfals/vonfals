@@ -57,7 +57,7 @@ Synth Echoes       ● SOON    A companion that remembers you.
 
 **A Synth is not a model.** The model is an engine. It runs on one today and
 could run on another tomorrow. What makes a Synth *itself* lives around the
-engine, in the pod, and the pod is ours:
+engine, in the system, and the system is ours:
 
 ```
 IDENTITY     who it is, carried into every conversation
