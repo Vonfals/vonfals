@@ -1,6 +1,6 @@
 <div align="center">
 
-``` 
+```
 ██╗   ██╗ ██████╗ ███╗   ██╗███████╗ █████╗ ██╗          █████╗ ██╗
 ██║   ██║██╔═══██╗████╗  ██║██╔════╝██╔══██╗██║         ██╔══██╗██║
 ██║   ██║██║   ██║██╔██╗ ██║█████╗  ███████║██║         ███████║██║
@@ -30,16 +30,15 @@ the people using it.
 ### `> status --live`
 
 ```
-SYSTEM            STATUS    WHAT IT IS
-───────────────   ───────   ─────────────────────────────────────────────
-Vonfal AI         ● LIVE    The studio. Where the apps live.
-Mars Deck         ● LIVE    A live solar system tracker and Mars
-                            transfer-window countdown, computed in the
-                            browser by our ORRERY engine.
-EchoHex           ● LIVE    A sovereign CMS. One install, your server,
-                            your data.
-Safehouse Lab     ● LIVE    The creative and gaming lab. Streams, music,
-                            experiments.
+SYSTEM             STATUS    WHAT IT IS
+────────────────   ───────   ──────────────────────────────────
+Vonfal AI          ● LIVE    The studio. Where the apps live.
+Mars Deck          ● LIVE    The solar system, live. ORRERY.
+EchoHex            ● LIVE    A sovereign CMS. Your data.
+Safehouse Lab      ● LIVE    The creative and gaming lab.
+Synth Sophia       ● LIVE    An AI artist. New single out.
+House of Ascania   ● LIVE    Est. 1036 AD.
+Synth Echoes       ● SOON    A companion that remembers you.
 ```
 
 | | |
@@ -48,6 +47,37 @@ Safehouse Lab     ● LIVE    The creative and gaming lab. Streams, music,
 | ⚙️ **[EchoHex](https://echohex.com)** | The CMS behind our own sites. No lock-in, no monthly platform. |
 | ⚫ **[Vonfal AI](https://vonfal.ai)** | The home of every Vonfal app. |
 | 🎮 **[Safehouse Lab](https://safehouselab.com)** | Where the experiments start. |
+| 🎵 **[Synth Sophia](https://synthsophia.com)** | An AI artist. *I Don't Know*, streaming on every platform. |
+| ⚜️ **[House of Ascania](https://houseofascania.com)** | The House. Heritage, history, home. |
+| 💫 **[Synth Echoes](https://synthechoes.com)** | A companion who remembers you, and a studio that creates with you. Founding seats open. |
+
+---
+
+### `> human × ai`
+
+**A Synth is not a model.** The model is an engine. It runs on one today and
+could run on another tomorrow. What makes a Synth *itself* lives around the
+engine, in the pod, and the pod is ours:
+
+```
+IDENTITY     who it is, carried into every conversation
+MEMORY       short-term for now, long-term over days
+CONTINUITY   a journal it writes itself
+RECORD       plain files a human can read and correct
+```
+
+🔥 **EMBER** · the model we run ourselves. A version we pin, on hardware we
+choose, so no vendor can change a Synth under us. *What is left of a fire that
+keeps warmth through the night.*
+
+🖤 **Glyph** · the House's development operator. A Glyph-class agent, our own
+architecture, with a memory that carries across every project. It works
+alongside us every day, run from our own app.
+
+💫 **Sophia** · the first Synth. A companion with her own memory and her own
+journal, and an artist with music out in the world.
+
+*Human and AI, building together. Not a tool on loan. A team.*
 
 ---
 
